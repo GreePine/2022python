@@ -1,3 +1,0 @@
-# test1.txt 파일을 생성해주세요.
-f4 = open("C:\\python_edu\\test1.txt","wt")
-f4.close()
